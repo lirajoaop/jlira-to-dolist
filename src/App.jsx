@@ -8,6 +8,4 @@ function App() {
   );
 }
 
-// solucionando deploy
-
 export default App;
